@@ -28,6 +28,6 @@ class Player:
         return word in self.wordsin
     
     def __repr__(self):
-        return f"{self.name} - {self.wordsin}"
+        return f'{self.name} - {self.wordsin}'
         
 
